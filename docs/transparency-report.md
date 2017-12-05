@@ -4,4 +4,4 @@ To begin our project, we found three databases that contained data relating to C
 
 OpenRefine is a data editing program that allowed me to clean up the data and identify problems with it. For instance, I was able to use the Text Facet option in OpenRefine to delete any spaces that may be after certain data entries, so it would be grouped with other identical entries that didn't have the space to begin with. I was also able to use OpenRefine to remove columns, and split one column that had multiple sets of data into multiple columns. Once I was done cleaning up the data in OpenRefine, I could then export the project and enter it into Tableau to create visualizations for it.
 
-Tableau was the program used to create visualizations from the data as a way to visually illustrate trends and patters better than numbers in a spreadsheet could. Blah blah blah
+Tableau was the program used to create visualizations from the data as a way to visually illustrate trends and patterns better than numbers in a spreadsheet could. Tablua

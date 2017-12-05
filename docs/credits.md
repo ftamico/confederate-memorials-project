@@ -2,4 +2,4 @@
 
 * Nola Berish - Project Management, Data Gathering and Visualizations
 * Frank Amico - Data Gathering and Visualizations
-* Aaron Lewis - Historical Scholarship
+* Aaron Lewis - Digital Methods and Historical Scholarship

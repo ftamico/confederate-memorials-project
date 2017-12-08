@@ -1,1 +1,3 @@
 # Next Steps
+
+FOr our project, there will be a project manager, a digital scholarship expert, and then each of us will be data scientists and visualization experts. We will try to gather data from multiple sources, including the National Register of Historic Places, the National Park Service Soldiers and Sailors Database, and the Historical Marker Database. We will use the Webscraper extension from Google Chrome to get the data from the websites, and then we will use Google OpenRefine to organize, clean, and edit the data for irregularities. We will then export the cleaned data into an Excel file and put it into Tableau to begin creating visualizations that will make it easier to identify trends and patters in the data.

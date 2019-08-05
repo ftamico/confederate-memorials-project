@@ -1,4 +1,5 @@
 # Project credits
 
-* David J. Thomas - Project Management, Coding, Visualizations, and Analysis
-* Students of HIS4936, Hacking History: Programming Digital Scholarship
+* Nola Berish - Project Management, Data Gathering and Visualizations
+* Frank Amico - Data Gathering and Visualizations
+* Aaron Lewis - Historical Scholarship

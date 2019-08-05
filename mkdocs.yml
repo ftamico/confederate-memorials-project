@@ -1,9 +1,15 @@
-site_name: HIS4936 Final Project Starter
+site_name: Confederate Memorials Project
 theme_dir: theme
 theme: null
-copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/thePortus/his4936-starter/
+copyright: 'Copyright &copy; 2017 <a href="mailto:nrberish@gmail.com">Nola Berish, Frank Amico, Aaron Lewis</a>'
+repo_url: https://github.com/nrberish/confederate-memorials-project
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
+- Background: 'digital-methods-and-historical-scholarship.md'
+- Next Steps: 'next-steps.md'
+- Source Analysis: 'transparency-report.md'
+- Step By Step Process: 'processes.md'
+- Initial Findings: 'initial-findings.md'
+- Problems Encountered: 'problems-encountered.md'
 - Credits: 'credits.md'
